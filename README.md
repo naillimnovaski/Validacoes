@@ -46,4 +46,4 @@ Durante nossas aulas, criamos dois projetos em JavaScript focados na validação
 * innerHTML: Atualiza o conteúdo de um elemento no DOM com o valor do e-mail.
 
 ## Autores 👥
-- [Naillim Novaski](https://github.com/naillimnovaski?tab=repositories)
+- [Naillim Novaski](https://github.com/naillimnovaski/Validacoes)
